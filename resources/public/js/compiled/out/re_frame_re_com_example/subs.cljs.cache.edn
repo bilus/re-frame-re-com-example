@@ -1,0 +1,2 @@
+;; Analyzed by ClojureScript 0.0-3211
+{:cljs.analyzer/constants {:order [:name :data], :seen #{:name :data}}, :imports nil, :requires {re-frame.core re-frame.core, re-frame re-frame.core}, :uses nil, :require-macros {reagent.ratom reagent.ratom}, :use-macros {reaction reagent.ratom}, :excludes #{}, :doc nil, :name re-frame-re-com-example.subs}
